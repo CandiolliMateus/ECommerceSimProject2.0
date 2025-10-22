@@ -1,0 +1,57 @@
+﻿# Build e publicação
+bin/
+obj/
+out/
+publish/
+
+# Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log e cache
+*.log
+*.cache
+*.db
+*.vsixdc
+
+# Configurações locais
+appsettings.Local.json
+appsettings.Development.json
+*.backup.json
+*.json
+
+# Docker
+docker-compose.override.yml
+**/Dockerfile
+**/docker-compose*.yml
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+
+# Diretórios de pacotes
+packages/
+.nuget/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# IDEs e editores
+.idea/
+*.vscode/
+*.swp
+
+# Testes e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Outros
+Thumbs.db
+Desktop.ini
