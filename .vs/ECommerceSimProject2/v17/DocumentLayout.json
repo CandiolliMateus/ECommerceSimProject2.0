@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.api\\controllers\\admin\\categoryadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.api\\controllers\\admin\\categoryadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.application\\admin\\handlers\\updatecategoryadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.application\\admin\\handlers\\updatecategoryadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.application\\admin\\interfaces\\icategoryadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.application\\admin\\interfaces\\icategoryadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.api\\services\\admin\\categoryadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.api\\services\\admin\\categoryadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.infrastructure\\sql\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.infrastructure\\sql\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.domain\\sql\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.domain\\sql\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.application\\admin\\dtos\\updatecategoryadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.application\\admin\\dtos\\updatecategoryadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.application\\admin\\commands\\updatecategoryadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.application\\admin\\commands\\updatecategoryadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.domain\\sql\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.domain\\sql\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.shared\\utilities\\textnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.shared\\utilities\\textnormalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.infrastructure\\sql\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.infrastructure\\sql\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.application\\admin\\commands\\createcategoryadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.application\\admin\\commands\\createcategoryadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.infrastructure\\nosql\\documents\\productdocumenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.infrastructure\\nosql\\documents\\productdocumenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\src\\ecommercesim.infrastructure\\nosql\\configuration\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:src\\ecommercesim.infrastructure\\nosql\\configuration\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|c:\\users\\mateu\\source\\repos\\ecommercesimproject2\\ecommercesimproject2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC5A5030-E6A1-47AC-A6E3-328D5169C184}|ECommerceSimProject2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-22T00:39:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Domain\\Sql\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Domain\\Sql\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Domain\\Sql\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Domain\\Sql\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:45:57.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCategoryAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Handlers\\UpdateCategoryAdminHandler.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Application\\Admin\\Handlers\\UpdateCategoryAdminHandler.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Handlers\\UpdateCategoryAdminHandler.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Application\\Admin\\Handlers\\UpdateCategoryAdminHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:43:09.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T23:30:37.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\Sql\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Infrastructure\\Sql\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\Sql\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Infrastructure\\Sql\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:03:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\NoSql\\Configuration\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Infrastructure\\NoSql\\Configuration\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\NoSql\\Configuration\\MongoDbSettings.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Infrastructure\\NoSql\\Configuration\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:51:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.API\\Controllers\\Admin\\CategoryAdminController.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.API\\Controllers\\Admin\\CategoryAdminController.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.API\\Controllers\\Admin\\CategoryAdminController.cs",
+              "RelativeToolTip": "src\\ECommerceSim.API\\Controllers\\Admin\\CategoryAdminController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:22:48.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Interfaces\\ICategoryAdminService.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Application\\Admin\\Interfaces\\ICategoryAdminService.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Interfaces\\ICategoryAdminService.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Application\\Admin\\Interfaces\\ICategoryAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:26:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.API\\Services\\Admin\\CategoryAdminService.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.API\\Services\\Admin\\CategoryAdminService.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.API\\Services\\Admin\\CategoryAdminService.cs",
+              "RelativeToolTip": "src\\ECommerceSim.API\\Services\\Admin\\CategoryAdminService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:19:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Domain\\Sql\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Domain\\Sql\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Domain\\Sql\\Entities\\Category.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Domain\\Sql\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T12:28:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateCategoryAdminCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Commands\\UpdateCategoryAdminCommand.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Application\\Admin\\Commands\\UpdateCategoryAdminCommand.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Commands\\UpdateCategoryAdminCommand.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Application\\Admin\\Commands\\UpdateCategoryAdminCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:39:54.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCategoryAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\DTOs\\UpdateCategoryAdminDto.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Application\\Admin\\DTOs\\UpdateCategoryAdminDto.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\DTOs\\UpdateCategoryAdminDto.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Application\\Admin\\DTOs\\UpdateCategoryAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:41:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextNormalizer.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Shared\\Utilities\\TextNormalizer.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Shared\\Utilities\\TextNormalizer.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Shared\\Utilities\\TextNormalizer.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Shared\\Utilities\\TextNormalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:57:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCategoryAdminCommand.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Commands\\CreateCategoryAdminCommand.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Application\\Admin\\Commands\\CreateCategoryAdminCommand.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Application\\Admin\\Commands\\CreateCategoryAdminCommand.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Application\\Admin\\Commands\\CreateCategoryAdminCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T12:51:45.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\Sql\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Infrastructure\\Sql\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\Sql\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Infrastructure\\Sql\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T12:17:30.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDocumentTest.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\NoSql\\Documents\\ProductDocumentTest.cs",
+              "RelativeDocumentMoniker": "src\\ECommerceSim.Infrastructure\\NoSql\\Documents\\ProductDocumentTest.cs",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\src\\ECommerceSim.Infrastructure\\NoSql\\Documents\\ProductDocumentTest.cs",
+              "RelativeToolTip": "src\\ECommerceSim.Infrastructure\\NoSql\\Documents\\ProductDocumentTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:51:11.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mateu\\source\\repos\\ECommerceSimProject2\\ECommerceSimProject2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T03:07:39.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
